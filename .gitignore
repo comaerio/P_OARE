@@ -1,0 +1,5 @@
+### ignore all png, Meta, Asset files ### 
+*.png
+*.Meta
+*.Asset
+D:/P_OARE/Library/ArtifactDB
